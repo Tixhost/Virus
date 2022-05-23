@@ -1,0 +1,1 @@
+shutdown.exe -s -t 5 -c "shutdown"
